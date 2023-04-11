@@ -1,6 +1,8 @@
 ---
-title: "Resume"
+title: "Position"
 ---
+
+![](images/CDPH.jpg)
 
 #### Science Officer, 2023-Present
 
@@ -9,6 +11,8 @@ title: "Resume"
 -   Supports scientific initiatives to inform policy and evidence based decision making by liasing between internal SME and leadership
 
 -   Serves as a dedicated resource to cultivate critical partnerships with other health agencies, universities, and external partners to enhance generation of knowledge, access to data, and utilization of and translation of data and evidence into policy, strategies, and operations, and communications
+
+![](images/CDPHE.jpg)
 
 #### Medical Epidemiologist, 2020-2023
 
@@ -20,6 +24,8 @@ title: "Resume"
 
 -   Implemented and successfully transitioned wastewater surveillance for SARS-CoV-2 across the state.
 
+![](images/CU%20Anschutz.jpg)
+
 #### Clinical Faculty, 2021-2023
 
 *UCHealth*
@@ -29,6 +35,8 @@ title: "Resume"
 -   Conduct training in opioid medication management and difficult patient encounters, working with standardized patients and medical students nearing graduation.
 
 -   Member of Residency Advisory Committee for Preventive Medicine Residency
+
+![](images/BEEFERS%20Logo%202.webp)
 
 #### Co-Founder, 2018-Present
 
@@ -40,6 +48,8 @@ title: "Resume"
 
 -   Created a novel solution to deidentify sensitive patient data without losing the ability to perform robust statistical analysis.
 
+![](images/CU%20Anschutz-01.jpg)
+
 #### Preventive Medicine Resident, 2018-2020
 
 *University of Colorado*
@@ -50,6 +60,8 @@ title: "Resume"
 
 -   Independently design and execute population-level epidemiological studies for both internal and external stakeholders
 
+![](images/Sketchy.jpg)
+
 #### Section Editor, 2018-2019
 
 *Sketchy Medical*
@@ -58,6 +70,8 @@ title: "Resume"
 
 -   Incorporated latest clinical research, national guidelines, and expert consensus to ensure comprehensive, accurate, and applicable material.
 
+![](images/epic.png)
+
 #### Epic Implementation Consultant, 2017-2018
 
 *UMass Amherst / UNLV*
@@ -65,6 +79,8 @@ title: "Resume"
 -   Shepherded clinicians and healthcare staff at two large academic medical centers through the fraught transition from archaic paper-based charting to a modern electronic health medical record system.
 
 -   Developed and implemented several patient safety monitoring interventions on a large transplant nursing floor, including CLABSI and fall prevention
+
+![](images/UC%20Davis.jpg)
 
 #### Intern, Internal Medicine, 2016-2017
 
@@ -76,11 +92,15 @@ title: "Resume"
 
 -   Discussed and negotiated patient discharge plans at legal hearings, ensuring safe, appropriate, and affordable post-discharge care for patients.
 
+![](images/CWRU.jpg)
+
 **Medical Student, 2012-2016**
 
 *Case Western Reserve University School of Medicine*
 
 -   Included rotations at Cleveland Clinic, University Hospital, VA, and large county hospital
+
+![](images/US%20Army.jpg)
 
 #### Program Evaluation Consultant, 2012
 
@@ -88,9 +108,13 @@ title: "Resume"
 
 -   Performed an evidence-based evaluation of wellness centers and programming at five US Army bases in Germany, with a goal of improving program effectiveness, capacity, and alignment with guidelines
 
+![](images/UofA%20Blank.jpg)
+
 #### **Master of Public Health, 2011-2013**
 
 -   Concentration: Public Health Practice
+
+![](images/TPR.jpg)
 
 #### MCAT and ACT Instructor, 2011-2012
 
@@ -98,11 +122,15 @@ title: "Resume"
 
 -   Created and delivered 3-hour lectures to a class of 8-20 high school and undergraduate students preparing for MCAT and ACT.
 
+![](images/UofA.jpg)
+
 #### Research Assistant, 2004-2010
 
 *Lung Injury Lab, University of Arizona*
 
 -   Transitional research project to develop a next-generation chemical sensor using technology developed as a result of research into lung injury mechanisms.
+
+![](images/bruce%20peru.png){width="100"}
 
 #### Elementary School Teacher, 2010
 
@@ -110,15 +138,21 @@ title: "Resume"
 
 -   Wrangled local kindergarten students into learning basic literacy, arithmetic skills using a combination of bribery, horsey rides.
 
+![](images/UofA%20Blank-01.jpg)
+
 #### **Bachelor of Arts, 2006-2010**
 
 *University of Arizona*
 
 -   Double major in Chemistry and Classics
 
+![](images/UofA%20Blank-02.jpg)
+
 #### Tennis Court Supervisor, 2007-2008
 
 *Campus Wellness, University of Arizona*
+
+#### ![](images/Screenshot%202023-04-11%20142300.png){width="128"}
 
 #### Dishwasher, 2006
 
