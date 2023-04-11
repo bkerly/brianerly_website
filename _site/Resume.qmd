@@ -1,0 +1,13 @@
+---
+title: "Resume"
+---
+
+### Medical Epidemiologist
+
+#### Colorado Department of Public Health and Environment
+
+-   Provide subject matter expertise in areas as diverse as dental care, schools and higher education, and personal services. Integrated data from hospitals, outbreak investigation, scientific literature, and media reports to create detailed reports and recommendations for stakeholders ranging from healthcare providers, policymakers, legislators, superintendents, and members of the general public
+
+-   Created and manages the COVID Patient Hospitalization Surveillance system, Colorado's statewide patient-level hospital data collection system for persons admitted with COVID. Conducted ad hoc and scheduled reports in R Markdown.
+
+-   Implemented and successfully transitioned wastewater surveillance for SARS-CoV-2 across the state.

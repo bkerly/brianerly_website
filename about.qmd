@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+Brian Erly is originally from Tucson, Arizona and received an MPH from the University of Arizona. His medical training includes an MD from Case Western and residency training in Preventive Medicine at UC Davis and the University of Colorado. During the COVID-19 pandemic, he worked at the Colorado Department of Public Health in the Medical Epidemiology Unit. There, he developed surveillance systems for COVID in hospitalized patients and wastewater systems, while drafting policies and guidance around school health, pediatric vaccinations, and mpox prevention. He is an enthusiastic R user with a busy and poorly curated GitHub account.
+
+Dr. Erly lives with his wife Katharine, two daughters, and two labradors. He enjoys Vanderpump Rules and cooking gluten free meals which are not as good as meals with gluten. He likes swimming laps but has not had a steady routine for a while, and will occasionally swim too far and hurt his shoulders. The same applies to pickup soccer, but with knee pain instead of shoulder pain.

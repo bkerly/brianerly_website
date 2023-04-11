@@ -1,0 +1,89 @@
+---
+title: "Brian Erly, MD MPH"
+image: images/brian.jpg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 16em
+  links:
+    - icon: github 
+      text: GitHub
+      href: https://github.com/bkerly
+    - icon: envelope 
+      text: Email
+      href: mailto:brianerly@gmail.com
+---
+
+Brian Erly, MD MPH, is a physician at the California Department of Public Health, where he works at the Center for Infectious Diseases as a Science Officer. He supports CID's scientific initiatives to inform policy and evidence based decision making by liasing between internal SME and leadership. Dr. Erly also serves as a dedicated resource to cultivate critical partnerships with other health agencies, universities, and external partners to enhance generation of knowledge, access to data, and utilization of and translation of data and evidence into policy, strategies, and operations, and communications.
+
+You can learn more about Dr. Erly's experience by accessing his CV in the menu bar or by interacting with the visualization below.
+
+```{r}
+# Load packages
+suppressPackageStartupMessages(library(tidyverse))
+suppressPackageStartupMessages(library(lubridate))
+
+# Read in data, specify column types
+Network_Data <- read_csv("data/Network_Data.csv",
+                         col_types = "cicflilc"
+) %>%
+  mutate(Date = mdy(Date))
+
+### Principal Components analysis
+# See https://towardsdatascience.com/understanding-dimension-reduction-and-principal-component-analysis-in-r-e3fbd02b29ae
+
+# Perform principal components analsis (for 3d graphing)
+pca <- Network_Data  %>%
+  select(-Title, - Link, -Date) %>%
+  mutate(across(everything(),as.numeric
+  )
+  ) %>%
+  prcomp(scale = TRUE)
+
+# Extract principal components
+pca_x <- pca$x %>%
+  data.frame() %>%
+  `colnames<-`(c("PCA1","PCA2","PCA3","PCA4","PCA5"))
+
+# Add in PCA output to graph
+Network_Data_Plot <- Network_Data %>%
+   mutate(PCA1 = pca_x$PCA1,
+          PCA2 = pca_x$PCA2
+          )
+
+### Generate plotly visualization
+
+fig <- plotly::plot_ly(Network_Data_Plot,
+                x = ~PCA1,
+                y = ~PCA2,
+                z = ~Date,
+                marker = list(size = 5,
+                              opacity = 0.8) ) %>%
+  plotly::add_markers(color = ~Category,
+                customdata = ~Link,
+                text = ~Title,
+                hoverinfo = "text")%>% 
+  plotly::config(displayModeBar = FALSE)
+
+# Make points clikcable (if links available)
+# See https://stackoverflow.com/questions/51681079/how-to-make-scatterplot-points-open-a-hyperlink-using-ggplotly-r
+
+figgy <- htmlwidgets::onRender(fig, "
+     function(el, x) {
+     el.on('plotly_click', function(d) {
+     var Link = d.points[0].customdata;
+     //Link
+     window.open(Link);
+     });
+     }
+     ")
+
+# Display graph output
+figgy
+```
+
+*Click on the graph to view additional works and resources.*
+
+------------------------------------------------------------------------
+
+Page created in R Markdown and Quarto. Source code available in GitHub.

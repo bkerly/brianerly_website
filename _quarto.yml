@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Brian Erly, MD MPH"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - resume.qmd
+
+format:
+  html:
+    theme: journal
+    css: styles.css
+    toc: true
+    code-fold: true
+    code-summary: "Show the code"
+
+editor: visual
+
