@@ -1,31 +1,33 @@
 ﻿Title,Importance,Date,Category,Money,Seriousness,Salish_RG,Link
-CV,5,12/1/2022,Biography,TRUE,5,FALSE,
-Experience_and_Skills,4,12/1/2022,Biography,FALSE,5,FALSE,
-Publications,5,12/1/2022,Biography,FALSE,5,FALSE,
-Illustrations,3,5/1/2016,Creative,FALSE,4,FALSE,
-Guide_to_Medical_School,3,5/1/2014,Creative,FALSE,3,FALSE,
-Short_Films,2,5/1/2014,Creative,FALSE,2,FALSE,
-About_Me,3,12/1/2022,Biography,FALSE,3,FALSE,
-Small_Bedrooms,2,4/1/2012,Creative,FALSE,3,FALSE,
-O_Ko_Magazine,1,5/1/2014,Creative,FALSE,1,FALSE,
-Brian_Hair,1,1/1/2014,Biography,FALSE,1,FALSE,
-Weekend_Plans,1,8/1/2017,Creative,FALSE,2,FALSE,
-Skeletal System,2,7/1/2014,Creative,FALSE,1,FALSE,
-Rihanna,1,4/1/2012,Creative,FALSE,1,FALSE,
-Ghost Consult,1,3/1/2015,Creative,FALSE,1,FALSE,https://youtu.be/QIXiQ4Q3CYY
-Claire Graduation,1,5/1/2016,Creative,FALSE,4,FALSE,https://youtu.be/afH4Z9HrkEc
-Chapter 11 Review,2,9/1/2011,Creative,FALSE,3,FALSE,https://youtu.be/6_HoGAzVvYw
-Iatrogenic-Related Transplant Injuries: The Role of the Interventional Radiologist. ,3,6/1/2015,Academic,TRUE,5,FALSE,https://www.ncbi.nlm.nih.gov/pubmed/26038621
-Hepatorenal Syndrome: A Review of Pathophysiology and Current Treatment Options.,3,12/1/2015,Academic,TRUE,5,FALSE,https://www.ncbi.nlm.nih.gov/pubmed/26622108
-Renal-function change after transjugular intra-hepatic portosystemic shunt placement and its relationship with survival: a single-center experience,1,3/12/2020,Academic,TRUE,5,FALSE,https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iUgjNZ8AAAAJ&citation_for_view=iUgjNZ8AAAAJ:UeHWp8X0CEIC
-Renal function change following transjugular intrahepatic portosystemic shunt (TIPS): a clinical retrospective study of 516 cases,1,3/1/2016,Academic,TRUE,5,FALSE,https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iUgjNZ8AAAAJ&citation_for_view=iUgjNZ8AAAAJ:qjMakFHDy7sC
-Follow-up MRI of the lumbar spine in patients with degenerative disease,1,1/1/2004,Academic,FALSE,5,FALSE,https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iUgjNZ8AAAAJ&citation_for_view=iUgjNZ8AAAAJ:u5HHmVD_uO8C
-Terraton Challenge,3,1/1/2017,Competition,FALSE,5,TRUE,https://www.salishresearchgroup.com/terraton-challenge
-Unlinkable Data Challenge,3,1/2/2017,Competition,FALSE,5,TRUE,https://www.salishresearchgroup.com/unlinkable-data-challenge
-CASE Challenge,2,1/3/2017,Competition,FALSE,5,TRUE,https://www.salishresearchgroup.com/case-challenge
-Geopolitical Forecasting Challenge,3,1/1/2017,Competition,TRUE,5,TRUE,https://www.salishresearchgroup.com/geopolitcal-forecasting
-Social Determinants of Health Visualization Challenge,4,1/2/2017,Competition,TRUE,5,TRUE,https://www.salishresearchgroup.com/heat-illness-visualization
-Midstream Transformation of Colorado’s Wastewater Data Pipeline,4,3/1/2022,Academic,FALSE,5,FALSE,https://www.accesswater.org/?id=-10080798
-Tracking and surveillance SARS-CoV-2 variant-associated mutations from wastewater whole genome sequencing in Colorado,3,3/1/2022,Academic,FALSE,5,FALSE,https://www.accesswater.org/?id=-10080799
-Endocarditis Trends in Colorado: 2004-2018.,4,11/2/2019,Academic,FALSE,5,FALSE,https://apha.confex.com/apha/2019/meetingapp.cgi/Paper/444493
-Healthcare Executives Role in the Opioid Epidemic.,3,2/15/2020,Academic,FALSE,5,FALSE,
+CV,5,12/1/22,Biography,TRUE,5,FALSE,
+Experience_and_Skills,4,12/1/22,Biography,FALSE,5,FALSE,
+Publications,5,12/1/22,Biography,FALSE,5,FALSE,
+Illustrations,3,5/1/16,Creative,FALSE,4,FALSE,
+Guide_to_Medical_School,3,5/1/14,Creative,FALSE,3,FALSE,
+Short_Films,2,5/1/14,Creative,FALSE,2,FALSE,
+About_Me,3,12/1/22,Biography,FALSE,3,FALSE,
+Small_Bedrooms,2,4/1/12,Creative,FALSE,3,FALSE,
+O_Ko_Magazine,1,5/1/14,Creative,FALSE,1,FALSE,
+Brian_Hair,1,1/1/14,Biography,FALSE,1,FALSE,
+Weekend_Plans,1,8/1/17,Creative,FALSE,2,FALSE,
+Skeletal System,2,7/1/14,Creative,FALSE,1,FALSE,
+Rihanna,1,4/1/12,Creative,FALSE,1,FALSE,
+Ghost Consult,1,3/1/15,Creative,FALSE,1,FALSE,https://youtu.be/QIXiQ4Q3CYY
+Claire Graduation,1,5/1/16,Creative,FALSE,4,FALSE,https://youtu.be/afH4Z9HrkEc
+Chapter 11 Review,2,9/1/11,Creative,FALSE,3,FALSE,https://youtu.be/6_HoGAzVvYw
+Iatrogenic-Related Transplant Injuries: The Role of the Interventional Radiologist. ,3,6/1/15,Academic,TRUE,5,FALSE,https://www.ncbi.nlm.nih.gov/pubmed/26038621
+Hepatorenal Syndrome: A Review of Pathophysiology and Current Treatment Options.,3,12/1/15,Academic,TRUE,5,FALSE,https://www.ncbi.nlm.nih.gov/pubmed/26622108
+Renal-function change after transjugular intra-hepatic portosystemic shunt placement and its relationship with survival: a single-center experience,1,3/12/20,Academic,TRUE,5,FALSE,https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iUgjNZ8AAAAJ&citation_for_view=iUgjNZ8AAAAJ:UeHWp8X0CEIC
+Renal function change following transjugular intrahepatic portosystemic shunt (TIPS): a clinical retrospective study of 516 cases,1,3/1/16,Academic,TRUE,5,FALSE,https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iUgjNZ8AAAAJ&citation_for_view=iUgjNZ8AAAAJ:qjMakFHDy7sC
+Follow-up MRI of the lumbar spine in patients with degenerative disease,1,1/1/04,Academic,FALSE,5,FALSE,https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iUgjNZ8AAAAJ&citation_for_view=iUgjNZ8AAAAJ:u5HHmVD_uO8C
+Terraton Challenge,3,1/1/17,Competition,FALSE,5,TRUE,https://www.salishresearchgroup.com/terraton-challenge
+Unlinkable Data Challenge,3,1/2/17,Competition,FALSE,5,TRUE,https://www.salishresearchgroup.com/unlinkable-data-challenge
+CASE Challenge,2,1/3/17,Competition,FALSE,5,TRUE,https://www.salishresearchgroup.com/case-challenge
+Geopolitical Forecasting Challenge,3,1/1/17,Competition,TRUE,5,TRUE,https://www.salishresearchgroup.com/geopolitcal-forecasting
+Social Determinants of Health Visualization Challenge,4,1/2/17,Competition,TRUE,5,TRUE,https://www.salishresearchgroup.com/heat-illness-visualization
+Midstream Transformation of Colorado’s Wastewater Data Pipeline,4,3/1/22,Academic,FALSE,5,FALSE,https://www.accesswater.org/?id=-10080798
+Tracking and surveillance SARS-CoV-2 variant-associated mutations from wastewater whole genome sequencing in Colorado,3,3/1/22,Academic,FALSE,5,FALSE,https://www.accesswater.org/?id=-10080799
+Endocarditis Trends in Colorado: 2004-2018.,4,11/2/19,Academic,FALSE,5,FALSE,https://apha.confex.com/apha/2019/meetingapp.cgi/Paper/444493
+Healthcare Executives Role in the Opioid Epidemic.,3,2/15/20,Academic,FALSE,5,FALSE,
+But Not The Armadillo,2,6/1/23,Creative,TRUE,2,FALSE,https://www.thedriftmag.com/mention/summer-2023/
+NYTimes: Dog Parks,1,8/16/23,Creative,FALSE,3,FALSE,https://www.nytimes.com/2023/08/16/opinion/letters/donald-trump-thought-language.html

@@ -1,6 +1,34 @@
 ---
-title: "Position"
+title: "Positions"
 ---
+
+![](images/EDCare.png)
+
+#### Medical Director, 2023-Present
+
+*EDCare*
+
+-   Supervise medical staff across three states at an eating disorder partial hospitalization program, including APP and RNs.
+
+-   Collaborate with diverse allied health professionals, including psychiatrists, therapists, dieticians, and mellieu managers to create a holistically supportive and healing environment for patients at the  program.
+
+-   Treat emergent and common health conditions occurring in eating disorder patients, including refeeding syndrome and long term consequences of malnutrition. 
+
+-   Coordinate admissions, discharge, and care plans for patients ranging from Division 1 athletes to active duty military to Medicaid recipients
+
+![](images/CDPHE.jpg)
+
+#### Medical Epidemiologist, 2023-2024
+
+*Communicable Disease Branch, Colorado Department of Public Health and Environment*
+
+-   Regularly deliver presentations to 50+ member physician groups about antibiotic resistant gonorrhea, Long COVID, syphilis, and other topics
+
+-   Using RShiny, design and implement mechanism to route Health Alerts to all healthcare providers in the state of Colorado based on practice specialty and location
+
+-   Coordinate release of pharmaceuticals from strategic national stockpile for emerging public health threats, coordinating between CDC and community providers.
+
+-   Serve as subject matter expert for review of school illness guidelines for Colorado, coordinating with stakeholders across the executive branch
 
 ![](images/CDPH.jpg)
 
@@ -14,7 +42,7 @@ title: "Position"
 
 ![](images/CDPHE.jpg)
 
-#### Medical Epidemiologist, 2020-2023
+#### Medical Epidemiologist, 2020-2024
 
 *Communicable Disease Branch, Colorado Department of Public Health and Environment*
 
