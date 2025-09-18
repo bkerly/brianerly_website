@@ -2,9 +2,61 @@
 title: "Positions"
 ---
 
+[![](images/Marathon.png){fig-alt="Marathon Health Logo"}](https://marathon.health/)
+
+#### Primary Care Physician, 2025-Present
+
+*Marathon Health*
+
+-   Provide comprehensive primary care to employees and their families, focusing on preventive health measures and chronic disease management.
+
+-   Collaborate with multidisciplinary teams to optimize patient outcomes and streamline healthcare delivery, including supervision of advanced practice providers
+
+-   Assist in provider training and launch of new health centers
+
+-   Conduct health education sessions and wellness programs tailored to the needs of municipal and state employees.
+
+![](images/BEEFERS%20Logo%202.webp)
+
+#### Co-Founder, Medical Director, 2018-Present
+
+*Salish Research Group*
+
+-   Our prizewinning analytics team uses contemporary statistical techniques and a deep understanding of both epidemiology and clinical medicine to drive insight in some of the most challenging healthcare issues of our time, from understanding the spread of HIV in an immigrant population to uncovering the factors that drive outcomes of surgical procedures.
+
+-   Won geopolitical forecasting contest sponsored by IARPA, beating an international field of entrants by most accurately predicting the outcome of international conflicts, weather patterns, domestic and overseas elections, and more
+
+-   Created a novel solution to deidentify sensitive patient data without losing the ability to perform robust statistical analysis.
+
+[![](images/Mochi.png){fig-alt="Mochi Health Logo"}](https://joinmochi.com/)
+
+#### Holistic Care Physician, 2024-Present
+
+*Mochi Health*
+
+-   Deliver medicine healthcare to a growing panel of patients. Use cloud-based EHR to document H+P, follow up visits, prescribe medications, order labs, and communicate with other members of the care team.
+
+-   Collaborate with product owners to develop LLM based transcription and note taking service, including addition of provider-focused features and development of training materials.
+
+-   Collaborate with RDs, behavioral health experts, and pharmacists to deliver high quality, collaborative lifestyle medicine focusing on whole-person wellness and metabolic risk factors.
+
+![](images/CU%20Anschutz.jpg)
+
+#### Clinical Faculty, 2021-Present
+
+*UCHealth*
+
+-   Supervise resident physicians during rotations at CDPHE.
+
+-   Conduct training in opioid medication management and difficult patient encounters, working with standardized patients and medical students nearing graduation.
+
+-   Member of Residency Advisory Committee for Preventive Medicine Residency
+
+-   Teach small group settings at medical school
+
 ![](images/EDCare.png)
 
-#### Medical Director, 2023-Present
+#### Medical Director, 2023-2025
 
 *EDCare*
 
@@ -51,30 +103,6 @@ title: "Positions"
 -   Created and managed the COVID Patient Hospitalization Surveillance system, Colorado's statewide patient-level hospital data collection system for persons admitted with COVID. Conducted ad hoc and scheduled reports in R Markdown.
 
 -   Implemented and successfully transitioned wastewater surveillance for SARS-CoV-2 across the state.
-
-![](images/CU%20Anschutz.jpg)
-
-#### Clinical Faculty, 2021-2023
-
-*UCHealth*
-
--   Supervise resident physicians during roatations at CDPHE.
-
--   Conduct training in opioid medication management and difficult patient encounters, working with standardized patients and medical students nearing graduation.
-
--   Member of Residency Advisory Committee for Preventive Medicine Residency
-
-![](images/BEEFERS%20Logo%202.webp)
-
-#### Co-Founder, 2018-Present
-
-*Salish Research Group*
-
--   Our prizewinning analytics team uses contemporary statistical techniques and a deep understanding of both epidemiology and clinical medicine to drive insight in some of the most challenging healthcare issues of our time, from understanding the spread of HIV in an immigrant population to uncovering the factors that drive outcomes of surgical procedures.
-
--   Won geopolitical forecasting contest sponsored by IARPA, beating an international field of entrants by most accurately predicting the outcome of international conflicts, weather patterns, domestic and overseas elections, and more
-
--   Created a novel solution to deidentify sensitive patient data without losing the ability to perform robust statistical analysis.
 
 ![](images/CU%20Anschutz-01.jpg)
 
