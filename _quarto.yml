@@ -12,7 +12,7 @@ website:
 
 format:
   html:
-    theme: journal
+    theme: flatly
     css: styles.css
     toc: true
     code-fold: true
