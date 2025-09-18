@@ -1,6 +1,6 @@
 ---
 title: "Brian Erly, MD MPH"
-image: images/brian.jpg
+image: images/brian.jpeg
 about: 
   template: trestles
   image-shape: rounded
