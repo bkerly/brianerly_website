@@ -14,7 +14,7 @@ about:
       href: mailto:brianerly@gmail.com
 ---
 
-Brian Erly, MD MPH, is a physician and epidemiolgoist. He currently works as a primary care provider at Marathon Health and as a virtual holistic care physician with Mochi Health. He also serves as the medical director of the Salish Research Group, which works at the intersection of health science, data science, and novel statistical methods.
+Brian Erly, MD MPH, is a physician and epidemiologist. He currently works as a primary care provider at Marathon Health and as a telemedicine physician with Mochi Health. He also serves as the medical director of the Salish Research Group, which works at the intersection of health science, data science, and novel statistical methods.
 
 You can learn more about Dr. Erly's experience by accessing his CV in the menu bar or by interacting with the visualization below.
 
